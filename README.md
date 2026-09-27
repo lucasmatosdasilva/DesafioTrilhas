@@ -33,11 +33,10 @@ O sistema possui as seguintes opções:
 
 ## 🏆 Atualização de Pontuação
 
-A principal funcionalidade desenvolvida nesta atividade foi a função:
+A principal funcionalidade desenvolvida nesta atividade foi a função `atualizarPontuacao()`, responsável por localizar um jogador e adicionar novos pontos à pontuação já existente.
 
-```javascript: atualizarPontuacao()
+## 💻 Tecnologias Utilizadas
 
-💻 Tecnologias Utilizadas
 - JavaScript
 - Node.js
 - Visual Studio Code
